@@ -10,6 +10,8 @@
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [React](https://facebook.github.io/react)
 - [Redux](http://redux.js.org)
+- [Node.js](https://nodejs.org/en)
+- [Express](https://expressjs.com)
 - [MySQL](https://www.mysql.com)
 - [Passport](http://passportjs.org)
 - [Bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
